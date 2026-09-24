@@ -34,8 +34,4 @@ steps:
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'EmployeePortal_Drop'
-<<<<<<< HEAD
     publishLocation: 'Container'
-=======
-    publishLocation: 'Container'
->>>>>>> 36278bbad748e835129367b8a7590543458bb884
